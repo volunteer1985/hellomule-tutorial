@@ -1,6 +1,7 @@
 {
   "configs": [
-    "hellomule.xml"
+    "hellomule.xml",
+    "global.xml"
   ],
   "secureProperties": [],
   "redeploymentEnabled": true,
@@ -13,7 +14,10 @@
       "exportedPackages": [],
       "exportedResources": [
         "application-types.xml",
+        "dev.properties",
+        "global.xml",
         "hellomule.xml",
+        "local.properties",
         "log4j2.xml"
       ]
     }
