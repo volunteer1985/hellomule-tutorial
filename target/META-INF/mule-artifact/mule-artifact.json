@@ -3,7 +3,9 @@
     "hellomule.xml",
     "global.xml"
   ],
-  "secureProperties": [],
+  "secureProperties": [
+    "secure.key"
+  ],
   "redeploymentEnabled": true,
   "name": "com.mycompany:hellomule:1.0.0-SNAPSHOT",
   "minMuleVersion": "4.4.0",
